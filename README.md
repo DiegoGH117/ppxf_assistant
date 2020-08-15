@@ -1,4 +1,4 @@
-# PPxF Assistant
+# pPXF Assistant
 
 ### Description
 This package is designed to assist in the application of the PPxF method to Integrated Field Spectra (IFS), to be able to
